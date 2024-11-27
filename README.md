@@ -13,4 +13,4 @@ React Native Reanimated
 
 # Gif
 
-! [](./assets/images/login.gif)
+![](./assets/images/login.gif)
